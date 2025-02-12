@@ -3,10 +3,10 @@ let time = 0; // Time variable for animation
 let scaleFactor;
 
 function preload() {
-  img1 = loadImage("assets/Ancient_cookie_gacha_reveal.webp");
-  img2 = loadImage("assets/Legendary_cookie_gacha_reveal.webp");
-  img3 = loadImage("assets/Super_epic_cookie_gacha_reveal.webp");
-}
+    img1 = loadImage("Ancient_cookie_gacha_reveal.webp");
+    img2 = loadImage("Legendary_cookie_gacha_reveal.webp");
+    img3 = loadImage("Super_epic_cookie_gacha_reveal.webp");
+  }
 
 function setup() {
     createCanvas(800, 800);
