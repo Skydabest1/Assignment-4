@@ -6,6 +6,7 @@ html, body {
 
 /* Body background setup */
 body {
+   
     background-image: url('Odyssey_garden.webp');
     background-size: cover;  /* Ensures the image covers the whole screen */
     background-position: center;  /* Centers the image */
